@@ -1,0 +1,1 @@
+This is a README.md file created from the linux terminal using git for the first project in the "Odin Project" series. 
